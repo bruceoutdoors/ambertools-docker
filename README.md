@@ -1,4 +1,4 @@
-# AmberTools Docker Image
+# [Unofficial] AmberTools Docker Image
 
 Docker image for [AmberTools](https://ambermd.org/AmberTools.php), the molecular dynamics simulations suite. With X11 forwarding, `xleap` GUI is supported as well.
 
